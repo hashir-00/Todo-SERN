@@ -1,0 +1,35 @@
+.addTodo {
+    margin: 2rem;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    border-radius: 0.625rem; /* Equivalent to 10px */
+    box-shadow: 0 0.25rem 0.5rem rgba(0,0,0,0.1); /* Equivalent to 0 4px 8px */
+}
+
+.addTodo InputGroup {
+    margin-bottom: 1rem;
+}
+
+.TODOS {
+    margin: 2rem;
+}
+
+.todo-item {
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 0.625rem; /* Equivalent to 10px */
+    box-shadow: 0 0.25rem 0.5rem rgba(0,0,0,0.1); /* Equivalent to 0 4px 8px */
+}
+
+.todo-item h5 {
+    margin-bottom: 1rem;
+}
+
+.todo-item p {
+    margin-bottom: 0.5rem;
+}
+
+.todo-item .btn {
+    margin-right: 1rem;
+}
